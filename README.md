@@ -24,12 +24,13 @@ De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-serv
 **----------------------**
 **ROLES**
 **----------------------**
+
 ***> Manager o líder***: Fernando González Petit
 ***> Cliente***: Sonia Díaz Santos
 ***> Programadores***: Othmán Alexander Salah Díaz, Daniel Paz Marcos, Marta García Luis, Alejandro González González, Aitor Hernández Sánchez
 
 **----------------------**
-**PLAN DE TRABAJO**
+###**PLAN DE TRABAJO**
 **----------------------**
 
 TAREAS
@@ -54,6 +55,7 @@ Conocimientos de programación del equipo:
 **----------------------**
 **REQUISITOS DE SOFTWARE**
 **----------------------**
+
 ***1. Creación del Servidor:***
 Contiene la cuenta o login para guardar los datos en un fichero.
 Habrá un menú donde el usuario puede escoger lo que desea hacer entre las siguientes opciones: editar perfil, mostrar perfil, mostrar historial (me gusta, retweet o publicaciones del usuario).
@@ -82,6 +84,7 @@ Estos puntos reflejan la situación final de nuestra Red Social basada en Tweete
 **----------------------**
 **OBJETIVO INICIAL**
 **----------------------**
+
 Para la primera entrega nos hubiera gustado que el usuario se pudiera crear la cuenta y haber implementado el envío del mensaje, pero no ha sido posible llegar a nuestro primer objetivo.
 
 TUTORIALS ON POINT
