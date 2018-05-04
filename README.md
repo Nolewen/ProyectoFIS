@@ -35,7 +35,7 @@ De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-serv
 
 **----------------------**
 
-###PLAN DE TRABAJO
+###PLAN DE TRABAJO<h3>
 
 **----------------------**
 
