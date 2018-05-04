@@ -33,8 +33,10 @@ De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-serv
 
 ## PLAN DE TRABAJO
 
-TAREAS
---------------------------
+**----------------------**
+**TAREAS**
+**----------------------**
+
 Empezado el sistema de Proyecto que ofrece Github. Mucho más visual que ir retocando un fichero de texto.
 
 - Base de datos General e Histórico (History) -> Daniel
@@ -46,8 +48,10 @@ Empezado el sistema de Proyecto que ofrece Github. Mucho más visual que ir reto
 
 Tiempo requerido individualmente para la realización de la primera entrega 0.
 
-Conocimientos de programación del equipo:
------------------------------------------
+**----------------------**
+**CONOCIMIENTOS DE PROGRAMACIÓN DEL EQUIPO**
+**----------------------**
+
   - C++
   - Java
   - (?)
