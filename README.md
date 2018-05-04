@@ -22,9 +22,7 @@ Planteamiento
 De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-servidor
 
 **----------------------**
-
 **ROLES**
-
 **----------------------**
 
 ***> Manager o líder***: Fernando González Petit
@@ -33,11 +31,7 @@ De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-serv
 
 ***> Programadores***: Othmán Alexander Salah Díaz, Daniel Paz Marcos, Marta García Luis, Alejandro González González, Aitor Hernández Sánchez
 
-**----------------------**
-
-###PLAN DE TRABAJO<h3>
-
-**----------------------**
+### PLAN DE TRABAJO
 
 TAREAS
 --------------------------
@@ -59,9 +53,7 @@ Conocimientos de programación del equipo:
   - (?)
   
 **----------------------**
-
 **REQUISITOS DE SOFTWARE**
-
 **----------------------**
 
 ***1. Creación del Servidor:***
@@ -90,9 +82,7 @@ También tendremos en cuenta el orden de llegada de los mensajes.
 Estos puntos reflejan la situación final de nuestra Red Social basada en Tweeter.
 
 **----------------------**
-
 **OBJETIVO INICIAL**
-
 **----------------------**
 
 Para la primera entrega nos hubiera gustado que el usuario se pudiera crear la cuenta y haber implementado el envío del mensaje, pero no ha sido posible llegar a nuestro primer objetivo.
