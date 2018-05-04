@@ -26,11 +26,13 @@ De momento, se plantea utilizar las herramientas de C++ y el modelo cliente-serv
 **----------------------**
 
 ***> Manager o líder***: Fernando González Petit
+
 ***> Cliente***: Sonia Díaz Santos
+
 ***> Programadores***: Othmán Alexander Salah Díaz, Daniel Paz Marcos, Marta García Luis, Alejandro González González, Aitor Hernández Sánchez
 
 **----------------------**
-###**PLAN DE TRABAJO**
+###PLAN DE TRABAJO
 **----------------------**
 
 TAREAS
